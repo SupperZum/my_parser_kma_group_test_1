@@ -1,11 +1,12 @@
 [package]
 name = "my_parser_kma_group_test_1"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 license = "MIT"
 description = "A brief description"
-#include = ["./images/image.png", "./Readme.md"]
+include = ["./images/image.png", "./Readme.md"]
 
+[lib]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
