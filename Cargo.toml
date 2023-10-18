@@ -7,7 +7,7 @@ description = "A brief description"
 include = ["./images/image.png", "./Readme.md"]
 
 [lib]
-name = "my_parser_kma_group_test_1"
+path = "src/lib.rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
