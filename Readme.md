@@ -2,7 +2,7 @@
 
 my parser for education purpose 
 
-![Alt text](image.png)
+![Alt text](/image.png)
 
 ### Example
 
