@@ -5,14 +5,10 @@ edition = "2021"
 license = "MIT"
 description = "A brief description"
 include = ["img"]
-documentation = "https://docs.rs/my_parser_practice_3"
-homepage = "https://github.com/vladyslavBrothervinn/my_parser_practice_3"
-repository = "https://github.com/vladyslavBrothervinn/my_parser_practice_3"
 
 
-[lib]
-name = "my_parser_kma_group_test_1"
-path = "../lib.rs"
+
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
