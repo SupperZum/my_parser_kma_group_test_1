@@ -1,15 +1,12 @@
 [package]
 name = "my_parser_kma_group_test_1"
-version = "0.1.11"
+version = "0.1.12"
 edition = "2021"
 license = "MIT"
 description = "A brief description"
 include = ["src/main.rs", "src/lib.rs", "image.png"]
 
-[lib]
-name = "my_parser_kma_group_test_1"  
-path = "src/lib.rs"
-crate-type = ["lib"] 
+
 
 
 
