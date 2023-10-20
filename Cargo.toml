@@ -1,12 +1,13 @@
 [package]
 name = "my_parser_kma_group_test_1"
-version = "0.1.7"
+version = "0.1.8"
 edition = "2021"
 license = "MIT"
 description = "A brief description"
-include = ["/image.png"]
+include = ["img"]
 
-
+[lib]
+crate-type = ["lib"] 
 
 
 
