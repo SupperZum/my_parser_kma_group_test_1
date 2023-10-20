@@ -1,10 +1,10 @@
 [package]
 name = "my_parser_kma_group_test_2"
-version = "0.1.15"
+version = "0.1.16"
 edition = "2021"
 license = "MIT"
 description = "A brief description"
-include = ["src/main.rs", "src/lib.rs", "image.png", "README.md"]
+include = ["src/main.rs", "src/lib.rs", "img", "README.md"]
 
 
 
