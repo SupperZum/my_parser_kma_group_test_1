@@ -7,7 +7,7 @@ description = "A brief description"
 include = ["img"]
 
 [lib]
-name ="lib.rs"
+name ="lib"
 crate-type = ["lib"] 
 
 
